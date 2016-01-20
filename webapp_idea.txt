@@ -1,0 +1,2 @@
+instructor should be able to see who left which comments
+Overall degree of participation
